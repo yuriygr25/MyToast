@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Кормить кота</string>
+    <string name="catfood"><b><i>Пора кормить моего кота!!</i></b></string>
+</resources>
